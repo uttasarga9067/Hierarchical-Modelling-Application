@@ -13,3 +13,6 @@
 ###### 4]. Integration of UI with Server.
 
 ##### Hierarchical Bayesian Model is running in the backend of Shiny Application. The Data can be explored in the application, as well as the model can be executed upto 300,000 Iterations. The more the model chains run, the better are the Convergence Diagnostics.
+
+# Instructions for running the Application.
+###### Click the link and let the Algorithm begin!
