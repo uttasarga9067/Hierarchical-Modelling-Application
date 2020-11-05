@@ -1,4 +1,4 @@
-# Hierarchical-Modelling-Application
+# Hierarchical-Modelling-Shiny-Application
 
 
 ### This Link is for the Web Application depolyed using R-Shiny.
